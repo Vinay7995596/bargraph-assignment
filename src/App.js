@@ -1,3 +1,4 @@
+
 import Stuckbargraph from "./componenets/Barchat"
 
 const App = () => {
@@ -7,5 +8,4 @@ const App = () => {
     </div>
   )
 }
-
-export default App  
+export default App;
